@@ -6,9 +6,9 @@
  Student Id: 700764795
  Email : srinivasbodasu@ucmo.edu
 
- Githublink: 
+ Githublink: https://github.com/Srinivas706/ICP2
 
- Video Link: 
+ Video Link: https://drive.google.com/file/d/1X2R0wy9SQHhwefdO4vH0lhz05ZxL3mf6/view?usp=drive_link 
 
 #Question 1. Write a program that takes two strings from the user: first_name, last_name. Pass these variables to fullname function that should return the (full name).Write function named “string_alternative” that return severy other char in the full_name string..
 **Answer.** We are using `first_name` and `last_name` to store two input strings from user and we have written a function called `fullname` that concatenates two strings using `+` operator and we are passing that result to `string_alternative` function that skips alternate character and gives the resultant output.
